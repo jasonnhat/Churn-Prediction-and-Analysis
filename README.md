@@ -50,3 +50,4 @@ Through this project, key insights into churn patterns were uncovered, and recom
 - **Objective:** Address customer concerns more effectively, improving overall satisfaction and reducing the likelihood of churn.
 
 ## Logistic Regression
+![`ChurnPrediction.ipynb`](https://github.com/jasonnhat/Churn-Prediction-and-Analysis/blob/main/ChurnPrediction.ipynb)
