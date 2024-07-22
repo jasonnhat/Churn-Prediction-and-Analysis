@@ -4,8 +4,10 @@
 This project focuses on analyzing customer churn for a telecom company using a dataset that includes various customer attributes and service usage details. The objective is to understand customer churn patterns and predict the likelihood of churn using data-driven insights.
 
 The project is divided into two main parts:
-  1. **Dashboard Creation in Power BI:** An interactive dashboard was developed to visualize and analyze churn-related data, enabling a comprehensive understanding of customer behavior and risk factors.
-  2. **Predictive Modeling with Logistic Regression:** A logistic regression model was implemented in Python to predict customer churn. The model's performance was evaluated to assess its accuracy and effectiveness in forecasting churn.
+
+  **1. Dashboard Creation in Power BI:** An interactive dashboard was developed to visualize and analyze churn-related data, enabling a comprehensive understanding of customer behavior and risk factors.
+
+  **2. Predictive Modeling with Logistic Regression:** A logistic regression model was implemented in Python to predict customer churn. The model's performance was evaluated to assess its accuracy and effectiveness in forecasting churn.
 
 Through this project, key insights into churn patterns were uncovered, and recommendations for reducing churn were formulated based on the analysis.
 
