@@ -13,6 +13,9 @@ Through this project, key insights into churn patterns were uncovered, and recom
 
 ## Power Bi Dashboard
 
+![Churn Prediction and Analysis](https://github.com/jasonnhat/Churn-Prediction-and-Analysis/blob/main/churn%20dashboard.jpeg)
+![Churn Prediction and Analysis](https://github.com/jasonnhat/Churn-Prediction-and-Analysis/blob/main/customer%20risk%20analysis.jpeg)
+
 ## Insights form the Dashboard
 - **Overall Churn Rate:** The churn rate is 27%, indicating that approximately one-quarter of the customer base is leaving the service.
 - **Customer Tenure:** About 55% of churned customers have been with the company for less than 1 year, while only 10% have been customers for more than 5 years. This suggests that shorter-tenured customers are more prone to churn.
